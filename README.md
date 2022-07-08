@@ -19,9 +19,7 @@ The csv file includes four columns: Account, Codename, URL, and List.
 | SPD | 279 | 317 |
 | KANZLERKANDIDATEN | 8 | 7 |
 | PARTY ACCOUNTS | 101 | 101 |
-  
-The repository also includes 103 URLs of websites of the seven main parties (AfD, CDU, CSU, DIE LINKE, FDP, DIE GRÜNEN, SPD) subdivided by states (party_websites.csv). 
-   
+     
 Please cite the following paper when using this open-source dataset:
 > Righetti, N., Giglietto, F., Kakavand, A. E., Kulichkina, A., Marino, G., & Terenzi, M. (2022). POLITICAL ADVERTISEMENT AND COORDINATED BEHAVIOR ON SOCIAL MEDIA IN THE LEAD-UP TO THE 2021 GERMAN FEDERAL ELECTIONS. [https://www.medienanstalt-nrw.de/fileadmin/user_upload/NeueWebsite_0120/Zum_Nachlesen/BTW22_Political_Advertisement.PDF](https://www.medienanstalt-nrw.de/fileadmin/user_upload/NeueWebsite_0120/Zum_Nachlesen/BTW22_Political_Advertisement.PDF)
 
