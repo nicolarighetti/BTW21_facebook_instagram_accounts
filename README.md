@@ -1,4 +1,4 @@
-# Facebook and Instagram Accounts of Parties and Candidates Running in the 2021 Germany's federal election
+# Facebook and Instagram Accounts of Parties and Candidates Running in the 2021 German Federal Election
 
 This repository includes a list of Facebook and Instagram accounts of candidates and parties running in the German federal election held on 26 September 2021 to elect the members of the 20th Bundestag.
 
